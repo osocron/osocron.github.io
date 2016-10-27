@@ -1,3 +1,3 @@
-/**
- * Created by osocron on 25/10/16.
- */
+$(document).ready(function(){
+    $('.parallax').parallax();
+});
